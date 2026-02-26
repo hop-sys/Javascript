@@ -11,7 +11,9 @@ console.log(typeof fruits)
 let student = {
     name: "Hope",
     age: 16,
-    isActive: true
 }
 console.log(student.name)
 console.log(student.age)    
+console.log(typeof student)
+
+// What is the difference between a dictionary in python,an object in javascript and a json data when dealing with APIs.
