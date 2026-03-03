@@ -10,7 +10,7 @@ const greet = function(){
 console.log(typeof(greet))
 greet();
 
-// below is an anonimous self executing function
+// below is an anonymous self executing function
 
 (function(){
     console.log("Welcome to the world of programming...")
