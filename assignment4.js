@@ -14,7 +14,7 @@ const add = (a, b) => a + b;
 console.log (add(6, 6));
 
 
-// // require()imports the module and its content into the current file
+// require()imports the module and its content into the current file
 import * as task1 from "./task1.js";
 console.log(task1.add(5, 10));
 console.log(task1.multiply(5, 10));
